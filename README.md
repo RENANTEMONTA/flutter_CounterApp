@@ -5,8 +5,8 @@ A simple Flutter application that demonstrates a basic counter functionality usi
 ## 🛠️ Technologies Used
 <h3 align="left">Languages and Tools:</h3>
 - **Dart:** Programming language used for building Flutter apps.
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <br>
 - **Flutter:** UI toolkit for building natively compiled applications for mobile, web, and desktop.
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 </p>
